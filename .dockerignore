@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Node modules
+node_modules
+npm-debug.log
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+*.md
+
+# Logs
+*.log
+
+# Azure/DevOps
+azure-pipelines.yml
+.github
+.devops
+
+# Kubernetes
+k8s-*.yaml
+
+# Temp files
+*.tmp
+.env.local
